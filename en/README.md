@@ -1,5 +1,5 @@
 # Transformers & LLMs cheatsheet for Stanford's CME 295
-Available in **English** -  [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es)
+Available in **English** - [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es) - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr)
 
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CME 295 Transformers & Large Language Models course. It includes:
