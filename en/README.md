@@ -18,4 +18,4 @@ This VIP cheatsheet gives an overview of what is in the "Super Study Guide: Tran
 [cme295.stanford.edu](https://cme295.stanford.edu/)
 
 ## Authors
-[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
+[Afshine Amidi](https://www.linkedin.com/in/afshineamidi/) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://www.linkedin.com/in/shervineamidi/) (Ecole Centrale Paris, Stanford University)
